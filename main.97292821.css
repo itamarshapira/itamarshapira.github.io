@@ -44,7 +44,7 @@ transform: scale(1.1);
 #me{color: black;}
 #p-me{color: #585858; }
 
-#love{color: red;}
+#love{color: black;}
 #p-love{color: #585858;}
 
 #lerning{color: black;}
@@ -63,3 +63,5 @@ img:hover{transform: scale(1.1);
 
 #result{font-style: italic; }
 
+#buttons{color:  #49aab7; background-color: black;}
+#buttons:hover{background-color:#49aab7; color: white; }
